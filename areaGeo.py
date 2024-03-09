@@ -1,6 +1,6 @@
 #Esse programa é um teste
 
 
-a = 3
-
-b = a + 3
+def area_ret(ladoA, ladoB):
+    area = ladoA * ladoB
+    return area
